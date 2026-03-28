@@ -23,4 +23,7 @@ Chào mừng bạn đến với Pose Detect và Hand Detect cho trò chơi Endle
 - Cũng có thể chạy phần chọn cách Tracking trong phần control_selector.py trong để mở menu chọn cách Tracking để chơi có Pose và Hand để chọn lựa,
 
 ## Thông tin liên hệ
-Gmail: nguyenhoangphongsupham@gmail.com
+**Nguyễn Hoàng Phong**
+* **Email:** nguyenhoangphongsupham@gmail.com
+* **LinkedIn:** [Nguyễn Hoàng Phong](https://www.linkedin.com/in/fong62/)
+* **GitHub:** [Fong62](https://github.com/Fong62)
